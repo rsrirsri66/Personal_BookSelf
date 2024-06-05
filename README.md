@@ -43,6 +43,8 @@ Local Storage: The bookshelf is stored in the browser's local storage.
 
 ## Screenshot
 
+![Screenshot](Images/Screenshot1.png)
+![Screenshot](Images/Screenshot2.png)
 ![Screenshot](Images/Screenshot3.png) 
 
 Happy Coding! : )
