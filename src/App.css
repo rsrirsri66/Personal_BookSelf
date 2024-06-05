@@ -1,0 +1,33 @@
+/* src/App.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color: #f0f0f0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+.book-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.book-results {
+  display: flex;
+  flex-direction: column;
+}
+
+.bookshelf {
+  display: flex;
+  flex-direction: column;
+}
