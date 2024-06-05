@@ -41,5 +41,9 @@ Open Library API: The application fetches book data from the Open Library API.
 
 Local Storage: The bookshelf is stored in the browser's local storage.
 
+## Screenshot
+
+![Screenshot](Images/Screenshot3.png) 
+
 Happy Coding! : )
 
